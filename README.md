@@ -1,6 +1,6 @@
-Projeto [Nome do Projeto]
+Projeto DescomplicaIF
 
-Este repositório contém o código-fonte do projeto Descomplica  IF, uma aplicação desenvolvida para [breve descrição do propósito do projeto, ex: gerenciar tarefas, analisar dados, automatizar processos, etc.].
+Este repositório contém o código-fonte do projeto Descomplica  IF, uma aplicação desenvolvida para Melhoarar a esperiência dos alunos com o uso do SUAP.
 
  Status do Projeto 🚧
 
@@ -8,14 +8,12 @@ O projeto está em fase final de desenvolvimento. As principais funcionalidades 
 
 Funcionalidades Principais ✅
 
-[Funcionalidade 1: ex. Cadastro de usuários]
-[Funcionalidade 2: ex. Autenticação com JWT]
-[Funcionalidade 3: ex. Dashboard com gráficos]
-[Funcionalidade 4: ex. Exportação de relatórios]
+Funcionalidade 1: ex. Cadastro de usuários
+
 
 Como Executar 🛠️
 
-Clone o repositório:
+Clone o repositório"
 
 #Desenvolvido por Daniel Cirino Versão v1.0.0
 #Atualizado 27/08/2025
