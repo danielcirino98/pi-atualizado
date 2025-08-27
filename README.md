@@ -1,6 +1,6 @@
 Projeto DescomplicaIF
 
-Este repositório contém o código-fonte do projeto Descomplica  IF, uma aplicação desenvolvida para Melhoarar a esperiência dos alunos com o uso do SUAP.
+Este repositório contém o código-fonte do projeto Descomplica  IF, uma aplicação desenvolvida para Melhorar a esperiência dos alunos com o uso do SUAP.
 
  Status do Projeto 🚧
 
@@ -9,6 +9,7 @@ O projeto está em fase final de desenvolvimento. As principais funcionalidades 
 Funcionalidades Principais ✅
 
 Funcionalidade 1: ex. Cadastro de usuários
+  .............2: ex. Interface para conteúdo do website
 
 
 Como Executar 🛠️
